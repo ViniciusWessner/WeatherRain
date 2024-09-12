@@ -11,7 +11,16 @@ O projeto é estruturado para seguir uma arquitetura moderna de Android, com foc
 - **Jetpack Compose** para a UI.
 - **Kotlinx Serialization** para deserialização de JSON.
 
-## Imagens do projeto
+## Imagens do Projeto
 
-![Captura de Tela](https://raw.githubusercontent.com/ViniciusWessner/WeatherRain/dev/app/src/main/res/drawable-nodpi/osasco.png)
-![Captura de Tela](https://raw.githubusercontent.com/ViniciusWessner/WeatherRain/dev/app/src/main/res/drawable-nodpi/screen.png)
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/ViniciusWessner/WeatherRain/dev/app/src/main/res/drawable-nodpi/osasco.png" alt="Imagem 1" width="300"/>
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/ViniciusWessner/WeatherRain/dev/app/src/main/res/drawable-nodpi/screen.png" alt="Imagem 2" width="300"/>
+</td>
+</tr>
+</table>
