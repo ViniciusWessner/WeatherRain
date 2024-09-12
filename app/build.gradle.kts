@@ -76,6 +76,9 @@ dependencies {
     implementation("com.google.dagger:hilt-android:2.49")
     kapt("com.google.dagger:hilt-android-compiler:2.49")
 
+    //Lifecycle
+    implementation("androidx.lifecycle:lifecycle-runtime-compose:2.7.0")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
 
 
     testImplementation(libs.junit)
