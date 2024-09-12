@@ -13,14 +13,7 @@ O projeto é estruturado para seguir uma arquitetura moderna de Android, com foc
 
 ## Imagens do Projeto
 
-
-<table>
-<tr>
-<td>
-<img src="https://raw.githubusercontent.com/ViniciusWessner/WeatherRain/dev/app/src/main/res/drawable-nodpi/osasco.png" alt="Imagem 1" width="300"/>
-</td>
-<td>
-<img src="https://raw.githubusercontent.com/ViniciusWessner/WeatherRain/dev/app/src/main/res/drawable-nodpi/screen.png" alt="Imagem 2" width="300"/>
-</td>
-</tr>
-</table>
+<div>
+    <img src="https://raw.githubusercontent.com/ViniciusWessner/WeatherRain/dev/app/src/main/res/drawable-nodpi/osasco.png" alt="Imagem 1" width="300" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/ViniciusWessner/WeatherRain/dev/app/src/main/res/drawable-nodpi/screen.png" alt="Imagem 2" width="300"/>
+</div>
