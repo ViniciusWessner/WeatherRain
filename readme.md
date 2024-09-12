@@ -13,5 +13,5 @@ O projeto é estruturado para seguir uma arquitetura moderna de Android, com foc
 
 ## Imagens do projeto
 
-![Captura de Tela](images/screenshot.png)
-![Captura de Tela](images/screenshot.png)
+![Captura de Tela](https://raw.githubusercontent.com/ViniciusWessner/WeatherRain/dev/app/src/main/res/drawable-nodpi/osasco.png)
+![Captura de Tela](https://raw.githubusercontent.com/ViniciusWessner/WeatherRain/dev/app/src/main/res/drawable-nodpi/screen.png)
